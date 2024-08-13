@@ -61,4 +61,4 @@ The application will generate a story about the professional career of the stude
 
 In this link, you can see a demo of the application: [Career AI](https://drive.google.com/file/d/1RuJClFehM0FUOrMpM6oq8HLValp0XKHF/view?usp=drive_link)
 
-Cheers!
+Cheers!!
